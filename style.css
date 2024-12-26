@@ -12,6 +12,7 @@
 {
     font-size: 175px;
     color: aliceblue;
+	  position :relative;
     
     text-shadow: 0 0 20px rgba(255, 0, 255, 0.7), 
                 0 0 40px rgba(255, 0, 255, 0.5), 
